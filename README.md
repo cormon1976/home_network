@@ -13,4 +13,4 @@ Look through config and replace any instance of "XX" with correct data. Ip's and
 
  #### Unifi Controller
 
- Hosted a UNIFI Controller on Digital Ocean Droplet, see DigitalOcean Folder for  Terrafrom code and other details details
+ Hosted a UNIFI Controller on Digital Ocean Droplet, see DigitalOcean Folder for  Terrafrom code and other details details.
